@@ -5,7 +5,7 @@ Automation Spray Blind XSS on Header
 
 
 
-![image](https://user-images.githubusercontent.com/29269177/225630783-ad5795a0-c293-4c39-b626-e4a4d07a1ea3.png)
+![image](https://user-images.githubusercontent.com/29269177/225631628-0727c938-2e08-4e34-9eed-0cc945f716c6.png)
 
 
 
