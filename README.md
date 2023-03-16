@@ -1,5 +1,7 @@
 # AutomationXSS
-Spray Blind XSS on Header
+
+
+Automation Spray Blind XSS on Header
 
 
 
@@ -7,7 +9,8 @@ Spray Blind XSS on Header
 
 
 
-
+Usage :
+ffuf -w url_target.txt:FUZZ1 -w headers.txt:FUZZ2 -u FUZZ1 -H "FUZZ2: <BlindXSS_Payload>"
 
 
 
